@@ -1,0 +1,1 @@
+This is a simple To-Do List application built using Java. The program allows the user to add, view, mark tasks as complete, and delete tasks. The tasks are stored in memory during the runtime of the application and can be managed through a simple text-based menu interface.
